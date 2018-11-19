@@ -1,0 +1,12 @@
+{
+  "tokenTitle": "Dapp token contract",
+  "tokensaleTitle": "Dapp tokensale contract",
+  "tokenName": "Token",
+  "tokenDecimals":18,
+  "tokenSymbol": "TOK",
+  "openingTime": 1542658887,
+  "closingTime": 1942658887,
+  "rate": 10,
+  "cap": 100,
+  "wallet": "0xA6279eF0c0C4BEa836E7e22AcC445f74BEa33CbD"
+}
